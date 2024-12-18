@@ -1,3 +1,10 @@
+
+Performed a dry run of the app and documented the results in an Excel sheet.
+Encountered an administrative permission issue while executing the script, and it is not connecting to BrowserStack; the GAD team is working on it.
+Watched a video about BrowserStack and started implementing the learnings in the script.
+
+
+
 [RemoteTestNG] detected TestNG version 7.5.0
 SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
